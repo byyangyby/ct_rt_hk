@@ -1,6 +1,8 @@
 #------------
 # plot regression result
 # Fig. 2 in paper
+# By Yang B. and Lin Y.
+# Aug. 2021
 #------------
 #
 # load packages
