@@ -1,6 +1,8 @@
 #------------
 # bootstrap Ct distribution
 # GAM and skewness
+# By Lin Y. and Yang B.
+# Aug. 2021
 #------------
 ######################################################
 ## data_ct: all individual Ct values (with test dates)
