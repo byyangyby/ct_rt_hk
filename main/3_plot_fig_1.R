@@ -1,6 +1,8 @@
 #------------
 # plot Ct distributions
 # Fig. 1 in paper
+# By Lin Y. and Yang B. 
+# Aug. 2021
 #-------------
 ######################################################
 ## daily_ct_bootstrap: daily case counts/sample counts, incidence-based Rt; 
